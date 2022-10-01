@@ -1,0 +1,421 @@
+
+
+.flatS{
+    background-color: silver;
+    height: 10px;
+    width: 700px;
+    margin-left: 200px;
+    margin-top: 60px;
+    border: solid 5px black;
+    
+}
+#face{
+    background-color: silver;
+    border: 4px solid black;
+    height: 400px ;
+    width: 30px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.step{
+background-color: silver;
+    border: 4px solid black;
+    height: 400px ;
+    width: 30px;
+    margin-left: 540px;
+    margin-top: -2px;
+}
+.back{
+background-color: silver;
+    border: 4px solid black;
+    height: 250px ;
+    width: 507px;
+    margin-left: -515px;
+    margin-top: -3px;
+}
+.cup1{
+height: 50px;
+width: 50px;
+border: darkcyan 2px solid;
+border-bottom-right-radius: 30px ;
+border-bottom-left-radius: 30px ;
+margin-top: -420px;
+background-color: springgreen;
+}
+.cup2{
+height: 50px;
+width: 50px;
+border: darkcyan 2px solid;
+border-bottom-right-radius: 30px ;
+border-bottom-left-radius: 30px ;
+margin-top: -420px;
+margin-left: -100px;
+background-color: springgreen;
+}
+
+.band{
+    height: 250px;
+    width: 250px;
+    border: 2px solid slategrey;
+    margin-top: 30px;
+    margin-left: 450px;
+    background-color: burlywood;
+}
+.grant{
+    height: 50px;
+    width: 250px;
+    border: 2px solid slategrey;
+   border-radius: 50%;
+    margin-left: 450px;
+    background-color :burlywood;
+}
+.stick1{
+    height: 50px;
+    width: 5px;
+    border: 2px solid slategrey;
+   margin-top: -100px;
+    margin-left: 450px;
+    border-radius: 50px;
+    background-color:brown ;
+}
+.stick2{
+    height: 50px;
+    width: 5px;
+    border: 2px solid slategrey;
+   margin-left: 695px;
+   margin-top: -65px;
+   border-radius: 50px;
+   background-color: brown;
+   }
+.leg1{
+    height: 150px;
+    width: 5px;
+    border: 2px solid slategrey;
+     margin-top: 350px;
+    margin-left: 165px;
+    background-color :black;
+}
+.leg2{
+    height: 150px;
+    width: 5px;
+    border: 2px solid slategrey;
+   margin-top: -10px;
+    margin-left: 210px;
+    background-color :black;
+}
+
+
+
+
+@media (max-width:962px) {
+    .frame{
+        margin-left: -200px;
+        height:80vh ;
+   
+    }
+}
+@media (max-width:735px) {
+    .frame{
+        margin-left: -200px;
+        height:80vh ;
+   
+    }
+    .flatS{
+        background-color: silver;
+        height: 5px;
+        width: 500px;
+        margin-left: 220px;
+        margin-top: 60px;
+        border: solid 5px black;
+        
+    }
+    #face{
+        background-color: silver;
+        border: 4px solid rgb(0, 0, 0);
+        height: 400px ;
+        width: 10px;
+        margin-left: 20px;
+        margin-top: 8px;
+    }
+    .step{
+    background-color: silver;
+        border: 4px solid rgb(0, 0, 0);
+        height: 400px ;
+        width: 10px;
+        margin-left: 430px;
+        margin-top: -2px;
+    }
+    .back{
+        background-color: silver;
+            border: 3px solid rgb(0, 0, 0);
+            height: 200px ;
+            width: 412px;
+            margin-left: -420px;
+            margin-top: -3px;
+        }
+        .band{
+            height: 220px;
+            width: 250px;
+            border: 2px solid slategrey;
+            margin-top: 30px;
+            margin-left: 350px;
+            background-color: burlywood;
+        }
+        .grant{
+            height: 70px;
+            width: 250px;
+            border: 2px solid slategrey;
+           border-radius: 50%;
+            margin-left: 350px;
+            background-color :burlywood;
+        }
+        .stick1{
+            height: 60px;
+            width: 5px;
+            border: 2px solid slategrey;
+             margin-top: -110px;
+            margin-left: 350px;
+            border-radius: 50px;
+            background-color:brown ;
+        }
+        .stick2{
+            height: 60px;
+            width: 5px;
+            border: 2px solid slategrey;
+           margin-left: 595px;
+           margin-top: -78px;
+           border-radius: 50px;
+           background-color: brown;
+           }
+        .leg1{
+            height: 160px;
+            width: 5px;
+            border: 2px solid slategrey;
+             margin-top: 330px;
+            margin-left: 100px;
+            background-color :black;
+        }
+        .leg2{
+            height: 160px;
+            width: 5px;
+            border: 2px solid slategrey;
+           margin-top: -10px;
+            margin-left: 210px;
+            background-color :black;
+        }
+        .cup1{
+            height: 50px;
+            width: 50px;
+            border: darkcyan 2px solid;
+            border-bottom-right-radius: 30px ;
+            border-bottom-left-radius: 30px ;
+            margin-top: -400px;
+            background-color: springgreen;
+            }
+        
+        
+}
+@media (max-width:541px) {
+    .frame{
+        margin-left: -200px;
+        height:80vh ;
+   
+    }
+    .flatS{
+        background-color: silver;
+        height: 5px;
+        width: 380px;
+        margin-left: 200px;
+        margin-top: 60px;
+        border: solid 2px black;
+        
+    }
+    #face{
+        background-color: silver;
+        border: 2px solid rgb(0, 0, 0);
+        height: 300px;
+        width: 5px;
+        margin-left: 20px;
+        margin-top: 6px;
+    }
+    .step{
+    background-color: silver;
+        border: 2px solid rgb(0, 0, 0);
+        height: 300px ;
+        width: 5px;
+        margin-left: 330px;
+        margin-top: -2px;
+    }
+    .back{
+        background-color: silver;
+            border: 2px solid rgb(0, 0, 0);
+            height: 150px ;
+            width: 322px;
+            margin-left: -327px;
+            margin-top: -3px;
+        }
+        .band{
+            height: 135px;
+            width: 220px;
+            border: 2px solid slategrey;
+            margin-top: 30px;
+            margin-left: 280px;
+            background-color: burlywood;
+        }
+        .grant{
+            height: 40px;
+            width: 220px;
+            border: 2px solid slategrey;
+           border-radius: 50%;
+            margin-left: 280px;
+            background-color :burlywood;
+        }
+        .stick1{
+            height: 35px;
+            width: 2px;
+            border: 2px solid slategrey;
+             margin-top: -77px;
+            margin-left: 280px;
+            border-radius: 50px;
+            background-color:brown ;
+        }
+        .stick2{
+            height: 34px;
+            width: 2px;
+            border: 2px solid slategrey;
+           margin-left: 498px;
+           margin-top: -56px;
+           border-radius: 50px;
+           background-color: brown;
+           }
+        .leg1{
+            height: 120px;
+            width: 3px;
+            border: 1px solid slategrey;
+             margin-top: 220px;
+            margin-left: 64px;
+            background-color :black;
+        }
+        .leg2{
+            height: 120px;
+            width: 3px;
+            border: 1px solid slategrey;
+           margin-top: -5px;
+            margin-left: 190px;
+            background-color :black;
+        }
+        .cup1{
+            height: 50px;
+            width: 50px;
+            border: darkcyan 2px solid;
+            border-bottom-right-radius: 30px ;
+            border-bottom-left-radius: 30px ;
+            margin-top: -280px;
+            background-color: springgreen;
+            }
+        
+        
+}
+
+@media (max-width:401px) {
+    .frame{
+        margin-left: -200px;
+        height:80vh ;
+   
+    }
+    .flatS{
+        background-color: silver;
+        height: 5px;
+        width: 300px;
+        margin-left: 200px;
+        margin-top: 60px;
+        border: solid 2px black;
+        
+    }
+    #face{
+        background-color: silver;
+        border: 2px solid rgb(0, 0, 0);
+        height: 200px;
+        width: 5px;
+        margin-left: 10px;
+        margin-top: 6px;
+    }
+    .step{
+    background-color: silver;
+        border: 2px solid rgb(0, 0, 0);
+        height: 200px ;
+        width: 5px;
+        margin-left: 270px;
+        margin-top: -2px;
+    }
+    .back{
+        background-color: silver;
+            border: 2px solid rgb(0, 0, 0);
+            height: 120px;
+            width: 260px;
+            margin-left: -265px;
+            margin-top: -3px;
+        }
+
+        .band{
+            height: 105px;
+            width: 180px;
+            border: 2px solid slategrey;
+            margin-top: 0px;
+            margin-left: 260px;
+            background-color: burlywood;
+        }
+        .grant{
+            height: 30px;
+            width: 180px;
+            border: 2px solid slategrey;
+           border-radius: 50%;
+            margin-left: 260px;
+            margin-top: 0px;
+            background-color :burlywood;
+        }
+        .stick1{
+            height: 30px;
+            width: 2px;
+            border: 2px solid slategrey;
+             margin-top: -68px;
+            margin-left: 265px;
+            border-radius: 50px;
+            background-color:brown ;
+        }
+        .stick2{
+            height: 30px;
+            width: 2px;
+            border: 2px solid slategrey;
+           margin-left: 430px;
+           margin-top: -50px;
+           border-radius: 50px;
+           background-color: brown;
+           }
+        .leg1{
+            height: 110px;
+            width: 3px;
+            border: 1px solid slategrey;
+             margin-top: 160px;
+            margin-left: 64px;
+            background-color :black;
+        }
+        .leg2{
+            height: 110px;
+            width: 3px;
+            border: 1px solid slategrey;
+            margin-top: 0px;
+            margin-left: 120px;
+            background-color :black;
+        }
+        .cup1{
+            height: 30px;
+            width: 30px;
+            border: darkcyan 2px solid;
+            border-bottom-right-radius: 30px ;
+            border-bottom-left-radius: 30px ;
+            margin-top: -205px;
+            background-color: springgreen;
+            }
+        
+}
